@@ -9,7 +9,7 @@
 		<dependency>
 			<groupId>org.apache.thrift</groupId>
 			<artifactId>libthrift</artifactId>
-			<version>0.8.0</version>
+			<version>1.0-OD</version>
 		</dependency>
 		<dependency>
 			<groupId>log4j</groupId>
